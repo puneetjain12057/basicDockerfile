@@ -14,4 +14,4 @@ You should see the below output
 
 ```
 Hello, Captain!
-```x
+```
