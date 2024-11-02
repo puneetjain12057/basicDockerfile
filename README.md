@@ -1,6 +1,6 @@
 ## Project URL
 
-This is a local Docker project from the roadmap.sh, You can find the project details [here](https://github.com/puneetjain12057/basicDockerfile) .
+This is a local Docker project from the roadmap.sh, You can find the project details [here](https://roadmap.sh/projects/basic-dockerfile) .
 
 ## Instructions
 1. Run below command to build the image.
